@@ -13,5 +13,5 @@ stopButton.onclick=function(){
 };
 function dialEmergency(){
     const emergencyNumber= "6857394234"
-    window.location.href='tel:${emergencyNumber}';
+    window.location.href=`tel:${emergencyNumber}`;
 }
