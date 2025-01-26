@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .right{
+                position: absolute;
+                bottom: 250px;
+            }
+            .left{
+                position:absolute;
+                bottom: 200px;
+            }
+        </style>
+        <link rel="stylesheet"
+        href="style.css">
+    </head>
+    <body>
+        <h1 ><center>Safety Alarm </center>Click the button for emergency</h1>
+        <div class="right">
+        <button id="alarmButton">Trigger Alarm</button>
+        </div>
+        <audio id="alarmSound" src="police-siren-sound-effect-240674.mp3" preload="auto"></audio> 
+        <div class="left">
+        <button id="stopButton">Stop Alarm</button>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
