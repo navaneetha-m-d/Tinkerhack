@@ -1,99 +1,50 @@
-# [Project Name] 🎯
-
+# Safety Alarm  🎯
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: 404 Squad
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Navaneetha M D - LBS Institute of Technology for Women
+- Member 2: Neethu Sudarsanan - LBS Institute of Technology for Women
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/navaneetha-m-d/Tinkerhack.git
 
 ### Project Description
-[2-3 lines about what your project does]
+This is an application designed to ensure safety during emergency situations. It makes a loud siren alert and dial emergency contact.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Many people feels threatened when they are alone and many crimes are occuring due to delayed help arrival.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+During emergencies people usually panic and delays contacting help . This application solves the delay in contacting help by providing an easy way with the help of a single button.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+- Java Script
+- css
+- html
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![alt text](image.png)
+Code for triggering and stopping the alarm in javascript
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![alt text](<Screenshot 2025-01-26 090656.png>)
+Code for the layout,text,buttons of the page in html
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![alt text](<Screenshot 2025-01-26 090627.png>)
+Code for styling the document in css
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+![Final]![alt text](<Screenshot 2025-01-26 090758.png>)
+Here when we click on the trigger alarm , a siren rings and when we click on the stop alarm , the siren stops
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Navaneetha M D:written the js code and debug the code
+- Neethu Sudarsanan: wriiten the html and css code
 
 ---
 Made with ❤️ at TinkerHub
